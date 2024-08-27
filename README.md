@@ -2,7 +2,7 @@
   
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Sofia&size=36&pause=400&color=86AF80&background=D5FFC300&multiline=true&repeat=false&width=1000&height=100&lines=__%CF%86(%EF%BC%8E%EF%BC%8E*)+.+.+.++++welcome+welcome;I'm+Theonica+Pauletta+a.k.a+Theoneandonly707+....%CF%86(%E3%83%BB%E2%88%80%E3%83%BB*)" alt="Typing SVG" /></a>
 <hr>
-<h3 align="center">A passionate Bsc Informatica Student from the Netherlands who currently resides in Sint Maarten</h3>
+<h3 align="center">A passionate BSc Informatica student from the Netherlands, currently residing in Sint Maarten</h3>
 
 - 🔭 I’m currently working on **learning different languages. Just getting started and got a long way to go.**
 

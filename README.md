@@ -4,7 +4,7 @@
 <hr>
 <h3 align="center">A passionate BSc Informatica student from the Netherlands, currently residing in Sint Maarten</h3>
 
-- 🔭 I’m currently working on **learning different languages. Just getting started and got a long way to go.**
+- 🔭 I’m working on **learning different languages and taking on several projects. Just getting started and got a long way to go.**
 
 - 🌱 I’m currently learning **Javascript**
 

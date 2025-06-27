@@ -6,7 +6,7 @@
 
 - 🔭 I’m working on **learning different languages and taking on several projects. Just getting started and got a long way to go.**
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **Python**
 
 - 📫 How to reach me **tir.pauletta@gmail.com**
 <pre>
